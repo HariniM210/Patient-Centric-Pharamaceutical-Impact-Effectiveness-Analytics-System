@@ -1,0 +1,104 @@
+timestamp,drug,condition,review_snippet,effectiveness_score,confidence
+2026-04-05T19:47:19,SertrSertralinealine,Anxiety,"This is the most important input
+Because your model uses NLP",7.4,0.81
+2026-04-05T21:37:55,Sertraline,Depression,I have been taking this medication for depression for the past three months. It ,7.4,0.81
+2026-04-05T21:48:41,Sertraline,Depression,I have been taking this medication for depression for the past three months. It ,7.4,0.81
+2026-04-06T09:27:08,Metformin,Diabetes Type 2,"I have been using this medication to control my blood sugar levels. It helps, bu",7.4,0.81
+2026-04-06T09:35:46,Metformin,Depression,"I have been using this medication to control my blood sugar levels. It helps, bu",7.4,0.81
+2026-04-06T10:49:47,DrugA,Depression,I have been feeling very low for the past few months. I have lost interest in da,7.4,0.81
+2026-04-06T10:49:47,DrugB,Depression,I have been feeling very low for the past few months. I have lost interest in da,7.4,0.81
+2026-04-06T12:42:24,Seconal,Insomnia,I am unable to sleep properly at night. I wake up multiple times and feel tired ,0.0,0.0
+2026-04-06T12:42:24,Nembutal Sodium,Insomnia,I am unable to sleep properly at night. I wake up multiple times and feel tired ,0.0,0.0
+2026-04-06T12:42:24,Pentobarbital,Insomnia,I am unable to sleep properly at night. I wake up multiple times and feel tired ,0.0,0.0
+2026-04-06T12:42:24,Hetlioz,Insomnia,I am unable to sleep properly at night. I wake up multiple times and feel tired ,0.0,0.0
+2026-04-06T12:42:24,Ethchlorvynol,Insomnia,I am unable to sleep properly at night. I wake up multiple times and feel tired ,0.0,0.0
+2026-04-06T14:02:45,Asendin,Depression,"changes in appetite/sleep, reduced energy, difficulty concentrating, irritabilit",0.0,0.0
+2026-04-06T14:02:45,Limbitrol DS,Depression,"changes in appetite/sleep, reduced energy, difficulty concentrating, irritabilit",0.0,0.0
+2026-04-06T14:02:45,Invega,Depression,"changes in appetite/sleep, reduced energy, difficulty concentrating, irritabilit",0.0,0.0
+2026-04-06T14:02:45,Forfivo XL,Depression,"changes in appetite/sleep, reduced energy, difficulty concentrating, irritabilit",0.0,0.0
+2026-04-06T14:02:45,Xanax XR,Depression,"changes in appetite/sleep, reduced energy, difficulty concentrating, irritabilit",0.0,0.0
+2026-04-06T14:08:53,Asendin,Depression,"changes in appetite/sleep, reduced energy, difficulty concentrating, irritabilit",6.9,0.89
+2026-04-06T14:08:53,Limbitrol DS,Depression,"changes in appetite/sleep, reduced energy, difficulty concentrating, irritabilit",8.5,0.91
+2026-04-06T14:08:53,Invega,Depression,"changes in appetite/sleep, reduced energy, difficulty concentrating, irritabilit",6.4,0.76
+2026-04-06T14:08:53,Forfivo XL,Depression,"changes in appetite/sleep, reduced energy, difficulty concentrating, irritabilit",9.3,0.85
+2026-04-06T14:08:53,Xanax XR,Depression,"changes in appetite/sleep, reduced energy, difficulty concentrating, irritabilit",9.0,0.72
+2026-04-06T14:33:07,Asendin,Depression,"It causes persistent sadness, loss of interest in activities, fatigue, and feeli",6.3,0.71
+2026-04-06T14:33:07,Limbitrol DS,Depression,"It causes persistent sadness, loss of interest in activities, fatigue, and feeli",6.4,0.81
+2026-04-06T14:33:07,Invega,Depression,"It causes persistent sadness, loss of interest in activities, fatigue, and feeli",8.7,0.88
+2026-04-06T14:33:07,Forfivo XL,Depression,"It causes persistent sadness, loss of interest in activities, fatigue, and feeli",7.6,0.72
+2026-04-06T14:33:07,Xanax XR,Depression,"It causes persistent sadness, loss of interest in activities, fatigue, and feeli",8.5,0.77
+2026-04-06T14:48:02,Asendin,Depression,"It causes persistent sadness, loss of interest in activities, fatigue, and feeli",8.9,0.9
+2026-04-06T14:48:02,Limbitrol DS,Depression,"It causes persistent sadness, loss of interest in activities, fatigue, and feeli",8.8,0.7
+2026-04-06T14:48:02,Invega,Depression,"It causes persistent sadness, loss of interest in activities, fatigue, and feeli",6.7,0.88
+2026-04-06T14:48:02,Forfivo XL,Depression,"It causes persistent sadness, loss of interest in activities, fatigue, and feeli",7.2,0.93
+2026-04-06T14:48:02,Xanax XR,Depression,"It causes persistent sadness, loss of interest in activities, fatigue, and feeli",6.6,0.95
+2026-04-06T14:53:27,Acnex,Acne,"I am experiencing acne in my faces for a week, it is very red , very irritating",7.5,0.77
+2026-04-06T14:53:27,Avita,Acne,"I am experiencing acne in my faces for a week, it is very red , very irritating",7.7,0.91
+2026-04-06T14:53:27,Avar,Acne,"I am experiencing acne in my faces for a week, it is very red , very irritating",7.5,0.75
+2026-04-06T14:53:27,Benzoyl peroxide / sulfur,Acne,"I am experiencing acne in my faces for a week, it is very red , very irritating",6.7,0.77
+2026-04-06T14:53:27,Benzoyl peroxide / hydrocortisone,Acne,"I am experiencing acne in my faces for a week, it is very red , very irritating",6.7,0.85
+2026-04-06T14:53:56,Acnex,Acne,I am experiencing stomach pain,8.0,0.91
+2026-04-06T14:53:56,Avita,Acne,I am experiencing stomach pain,8.0,0.89
+2026-04-06T14:53:56,Avar,Acne,I am experiencing stomach pain,8.3,0.73
+2026-04-06T14:53:56,Benzoyl peroxide / sulfur,Acne,I am experiencing stomach pain,8.5,0.95
+2026-04-06T14:53:56,Benzoyl peroxide / hydrocortisone,Acne,I am experiencing stomach pain,7.3,0.84
+2026-04-06T14:54:17,Acnex,Acne,I am experiencing stomach pain,7.9,0.94
+2026-04-06T14:54:17,Avita,Acne,I am experiencing stomach pain,7.4,0.82
+2026-04-06T14:54:17,Avar,Acne,I am experiencing stomach pain,6.9,0.82
+2026-04-06T14:54:17,Benzoyl peroxide / sulfur,Acne,I am experiencing stomach pain,9.3,0.71
+2026-04-06T14:54:17,Benzoyl peroxide / hydrocortisone,Acne,I am experiencing stomach pain,8.3,0.95
+2026-04-06T15:01:29,Dazidox,Chronic Pain,"I experience  fatigue, sleep disturbances, reduced mobility, and stiffness",6.5,0.78
+2026-04-06T15:01:29,Roxicodone Intensol,Chronic Pain,"I experience  fatigue, sleep disturbances, reduced mobility, and stiffness",8.5,0.82
+2026-04-06T15:01:29,Oxyfast,Chronic Pain,"I experience  fatigue, sleep disturbances, reduced mobility, and stiffness",7.7,0.92
+2026-04-06T15:01:29,Methadone Diskets,Chronic Pain,"I experience  fatigue, sleep disturbances, reduced mobility, and stiffness",8.8,0.88
+2026-04-06T15:01:29,Tylox,Chronic Pain,"I experience  fatigue, sleep disturbances, reduced mobility, and stiffness",8.5,0.95
+2026-04-07T20:22:14,Belviq XR,Obesity,I experince excessive body fat accumulation and physical strain like breathlessn,9.3,0.86
+2026-04-07T20:22:14,Ionamin,Obesity,I experince excessive body fat accumulation and physical strain like breathlessn,7.7,0.91
+2026-04-07T20:22:14,Desoxyn,Obesity,I experince excessive body fat accumulation and physical strain like breathlessn,7.6,0.9
+2026-04-07T20:22:14,Methamphetamine,Obesity,I experince excessive body fat accumulation and physical strain like breathlessn,9.3,0.8
+2026-04-07T20:22:14,Fastin,Obesity,I experince excessive body fat accumulation and physical strain like breathlessn,8.9,0.78
+2026-04-07T20:48:52,Aerobid,Asthma,"I experience wheezing (whistling sound), shortness of breath, chest pain, and a ",8.8,0.87
+2026-04-07T20:48:52,Aristocort,Asthma,"I experience wheezing (whistling sound), shortness of breath, chest pain, and a ",9.2,0.7
+2026-04-07T20:48:52,Azmacort,Asthma,"I experience wheezing (whistling sound), shortness of breath, chest pain, and a ",7.8,0.74
+2026-04-07T20:48:52,Ipratropium Inhalation Solution,Asthma,"I experience wheezing (whistling sound), shortness of breath, chest pain, and a ",9.1,0.73
+2026-04-07T20:48:52,Flunisolide,Asthma,"I experience wheezing (whistling sound), shortness of breath, chest pain, and a ",7.5,0.72
+2026-04-07T22:18:49,Aspirin,Fever,"I experience shivering, chills, sweating, headache, muscle aches, loss of appeti",8.6,0.78
+2026-04-07T22:18:49,Ibuprofen,Fever,"I experience shivering, chills, sweating, headache, muscle aches, loss of appeti",8.3,0.89
+2026-04-07T22:18:49,Paracetamol,Fever,"I experience shivering, chills, sweating, headache, muscle aches, loss of appeti",8.7,0.73
+2026-04-07T22:20:12,Antihistamines,Cold,"I feel scratchy throat, sneezing, and a runny nose. ",8.6,0.72
+2026-04-07T22:20:12,Decongestants,Cold,"I feel scratchy throat, sneezing, and a runny nose. ",7.4,0.73
+2026-04-07T22:57:39,Aldactazide,High Blood Pressure,"I have severe cases can cause symptoms like intense headaches, vision changes, c",8.3,0.72
+2026-04-07T22:57:39,Bendroflumethiazide / nadolol,High Blood Pressure,"I have severe cases can cause symptoms like intense headaches, vision changes, c",7.4,0.77
+2026-04-07T22:57:39,Microzide,High Blood Pressure,"I have severe cases can cause symptoms like intense headaches, vision changes, c",7.7,0.75
+2026-04-07T22:57:39,Nadolol,High Blood Pressure,"I have severe cases can cause symptoms like intense headaches, vision changes, c",7.3,0.88
+2026-04-07T22:57:39,Hydrochlorothiazide / spironolactone,High Blood Pressure,"I have severe cases can cause symptoms like intense headaches, vision changes, c",7.8,0.83
+2026-04-08T10:26:32,Ibuprofen,Diabetes Type 2,"I have frequent urination, intense hunger, extreme fatigue, blurred vision, slow",6.1,0.75
+2026-04-08T10:26:32,Paracetamol,Diabetes Type 2,"I have frequent urination, intense hunger, extreme fatigue, blurred vision, slow",6.6,0.77
+2026-04-08T10:36:20,Ibuprofen,Diabetes Type 2,"I have frequent urination, intense hunger, extreme fatigue, blurred vision, slow",8.8,0.91
+2026-04-08T10:36:20,Paracetamol,Diabetes Type 2,"I have frequent urination, intense hunger, extreme fatigue, blurred vision, slow",8.4,0.7
+2026-04-08T10:52:50,Ibuprofen,Diabetes Type 2,"I have frequent urination, intense hunger, extreme fatigue, blurred vision, slow",6.7,0.78
+2026-04-08T10:52:50,Paracetamol,Diabetes Type 2,"I have frequent urination, intense hunger, extreme fatigue, blurred vision, slow",8.3,0.79
+2026-04-08T10:53:01,Ibuprofen,Diabetes Type 2,"I have frequent urination, intense hunger, extreme fatigue, blurred vision, slow",7.6,0.72
+2026-04-08T10:53:01,Paracetamol,Diabetes Type 2,"I have frequent urination, intense hunger, extreme fatigue, blurred vision, slow",8.1,0.71
+2026-04-08T10:53:03,Ibuprofen,Diabetes Type 2,"I have frequent urination, intense hunger, extreme fatigue, blurred vision, slow",7.4,0.77
+2026-04-08T10:53:03,Paracetamol,Diabetes Type 2,"I have frequent urination, intense hunger, extreme fatigue, blurred vision, slow",7.8,0.74
+2026-04-08T10:53:50,Aldactazide,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",7.9,0.77
+2026-04-08T10:53:51,Bendroflumethiazide / nadolol,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",7.7,0.78
+2026-04-08T10:53:51,Microzide,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",8.6,0.7
+2026-04-08T10:53:51,Nadolol,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",8.3,0.78
+2026-04-08T10:53:51,Hydrochlorothiazide / spironolactone,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",7.6,0.8
+2026-04-08T10:53:57,Aldactazide,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",8.2,0.79
+2026-04-08T10:53:57,Bendroflumethiazide / nadolol,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",7.5,0.95
+2026-04-08T10:53:57,Microzide,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",8.3,0.86
+2026-04-08T10:53:57,Nadolol,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",8.4,0.92
+2026-04-08T10:53:57,Hydrochlorothiazide / spironolactone,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",8.3,0.92
+2026-04-08T10:54:01,Aldactazide,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",7.7,0.89
+2026-04-08T10:54:01,Bendroflumethiazide / nadolol,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",7.0,0.83
+2026-04-08T10:54:01,Microzide,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",7.4,0.93
+2026-04-08T10:54:01,Nadolol,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",9.0,0.87
+2026-04-08T10:54:01,Hydrochlorothiazide / spironolactone,High Blood Pressure,"I have severe headaches, nosebleeds, shortness of breath, dizziness, and chest",6.4,0.89
+2026-04-08T10:55:36,Alprazolam Intensol,Anxiety,"persistent worry, rapid heart rate, dizziness, trembling, and difficulty concent",6.8,0.74
+2026-04-08T10:55:36,Aspirin / meprobamate,Anxiety,"persistent worry, rapid heart rate, dizziness, trembling, and difficulty concent",8.0,0.86
+2026-04-08T10:55:36,Lorazepam Intensol,Anxiety,"persistent worry, rapid heart rate, dizziness, trembling, and difficulty concent",8.5,0.81
+2026-04-08T10:55:36,Micrainin,Anxiety,"persistent worry, rapid heart rate, dizziness, trembling, and difficulty concent",8.7,0.76
+2026-04-08T10:55:36,Tranxene SD,Anxiety,"persistent worry, rapid heart rate, dizziness, trembling, and difficulty concent",6.5,0.88
